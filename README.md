@@ -69,7 +69,9 @@ Check out the Extension
 ---
 
 <picture>
-  <img src="https://github.com/rageenidawale/rageenidawale/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/rageenidawale/rageenidawale/output/github-contribution-grid-snake.svg" />
+  </p>
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:355872,100:141E30&height=120&section=footer"/>
