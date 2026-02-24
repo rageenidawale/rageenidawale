@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4000&pause=800&color=355872&width=650&lines=Hi%2C+I'm+Rageeni;Python+Backend+Developer;I+build+scalable+backend+systems"/>
 
 <div>
-    <img src="./assets/about_rageeni.gif" alt="About Me Terminal GIF"/>
+    <img src="about_rageeni.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ---
