@@ -26,6 +26,23 @@ I like building things that are simple, useful, and built to last.
 
 [![Backend](https://skillicons.dev/icons?i=python,django,mysql,postgres,mongodb,redis,docker,aws,git,github,vscode,pycharm,githubactions)](https://skillicons.dev)
 
+**Programming Languages:** Python, SQL
+
+**Backend Frameworks:** Django, Django REST Framework (DRF), Flask
+
+**API Development:** RESTful APIs, Authentication (JWT, OAuth2)
+
+**Databases & ORM:** PostgreSQL, MySQL, SQLAlchemy, MongoDB
+
+**Backend Architecture:** Redis Caching, Celery, Message Queues, Async Programming, Microservices
+
+**Python Libraries:** Pandas, NumPy, Requests
+
+**AI & Modern Tools:** LLM APIs (OpenAI, Gemini)
+
+**Cloud & DevOps:** Docker, AWS, CI/CD Pipelines
+
+**Tools & Platforms:** Postman, Git, GitHub, PyCharm, VS Code, Jupyter Notebook
 
 ---
 
@@ -43,6 +60,15 @@ Check out the Extension
 </a> 
 
 ### <a href="https://github.com/rageenidawale?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-355872?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+---
+
+### Current Focus
+
+- Backend architecture
+- Django and REST APIs
+- Building production-grade systems
+- Creating tools and automation
 
 ---
 
