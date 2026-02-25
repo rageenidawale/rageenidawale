@@ -82,6 +82,10 @@ Check out the Extension
 <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 
+<a href="https://dev.to/rageenidawale">
+  <img src="https://skillicons.dev/icons?i=devto" width="40" />
+</a>
+
 ---
 
 ### Employer?
